@@ -1,13 +1,15 @@
 # Linux-CTF-ARQPYB: BETA Aberta Build 
 
-![img](./ctf/ui/img/logo.svg)
+![img](./logo.svg)
 
 > Por favor ler atentamente ate o final :)
+
+
 ---
 ## Resumo
 
 Nesta BETA aberta búscase coñecer a opinión que tén o público obxectivo do proxecto acerca do software desenvolvido ao longo dos últimos 5 meses.
-Agradeceríase coñecer o voso feedback a través do [formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=PuqhzrJgdU-mwqYCLo-WG24jIPE1fOVLrA-D0deCrrhUMzJHRE5ZSFo3RzFXMkdLSjlOTkM4NzBBVC4u)unha vez rematedes de probar o proxecto, así como dos erros que poidades atopar ao fedellar.
+Agradeceríase coñecer o voso feedback a través do [formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=PuqhzrJgdU-mwqYCLo-WG24jIPE1fOVLrA-D0deCrrhUMzJHRE5ZSFo3RzFXMkdLSjlOTkM4NzBBVC4u) unha vez rematedes de probar o proxecto, así como dos erros que poidades atopar ao fedellar.
 
 ---
 ## Indicacións
@@ -21,6 +23,10 @@ Este proxecto a día de hoxe conta cunha compatibilidade con sistemas linux (Ubu
 
 #### Linux
 
+Preme aqui para instalar:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14675879.svg)](https://doi.org/10.5281/zenodo.14675879)
+
+E descarga o arquivo **linux_install.zip**
 
 > [!NOTE]
 > Para poder executar o proxecto é necesario ter instalado [Docker](https://docs.docker.com/engine/install/) e configurar o usuario co que se vai traballar como [usuario Docker](https://docs.docker.com/engine/install/linux-postinstall/).
@@ -56,8 +62,13 @@ sudo ./uninstall.sh
 
 #### Windows
 
+Preme aqui para instalar:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14675879.svg)](https://doi.org/10.5281/zenodo.14675879)
+
+E descarga o arquivo **windows_install.zip**
+
 > [!NOTE]
-> Para poder executar o proxecto é necesario ter instalado [Docker](https://docs.docker.com/desktop/setup/install/windows-install/) e un intérprete de X11, recoméndase encarecidamente o uso de []
+> Para poder executar o proxecto é necesario ter instalado [Docker](https://docs.docker.com/desktop/setup/install/windows-install/) e un intérprete de X11, recoméndase encarecidamente o uso de [**Xming**](https://sourceforge.net/projects/xming/)
 
 1. Para instalar é preciso descargar a carpeta co contido e poñela alí onde ti consideres, debería conter os seguintes arquivos:
 ~~~
@@ -72,7 +83,7 @@ sudo ./uninstall.sh
 2. Fai doble clic para executar o `install.bat`, é preciso darlle permisos para que poida instalar satisfactoriamente, unha vez instalado crearase un icono no escritorio co Linux_CTF_ARQPYB
 3. Para executar a contorna recoméndase ter correndo en segundo plano o Docker e o _
 > En caso de fallar o icono, podes abrir o docker dende unha consola co comando `docker start arqpyb_run`
-1. Para desinstalar fai doble clic para executar o `uninstall.bat`
+4. Para desinstalar fai doble clic para executar o `uninstall.bat`
 
 ### Funcionamento
 
@@ -88,7 +99,6 @@ As normas son moi sinxelas: iranse xerando retos cunha dificultade acorde co teu
 - Para ler o reto, pon o comando `reto`.
 - Para validar unha bandeira, pon o comando `flag`.
 - Para reiniciar os niveis, pon o comando `restart`.
-- 
 Ao finalizar todos os retos imprimiránse por pantalla cos resultados dos exercicios. 
 
 ## Licencia
