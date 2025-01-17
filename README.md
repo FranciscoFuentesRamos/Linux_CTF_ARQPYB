@@ -97,6 +97,7 @@ A interface é sinxela. Inclúe:
 - Un botón para imprimir o enunciado do reto polo terminal.
 - Un botón para reiniciar os retos.
 
+![imaxe](https://github.com/user-attachments/assets/00ad8b12-61dd-42dc-ae57-67f33d1029e8)
 
 
 #### Linux-CTF-ARQPYB
