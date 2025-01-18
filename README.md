@@ -24,8 +24,7 @@ Agradeceríase coñecer o voso feedback a través do [formulario](https://forms.
 
 Preme aqui para instalar:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14677490.svg)](https://doi.org/10.5281/zenodo.14677490)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14685183.svg)](https://doi.org/10.5281/zenodo.14685183)
 
 E descarga o arquivo **linux_install.zip**
 
@@ -63,9 +62,7 @@ sudo ./uninstall.sh
 
 Preme aqui para instalar:
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14677490.svg)](https://doi.org/10.5281/zenodo.14677490)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14685183.svg)](https://doi.org/10.5281/zenodo.14685183)
 
 E descarga o arquivo **windows_install.zip**
 
