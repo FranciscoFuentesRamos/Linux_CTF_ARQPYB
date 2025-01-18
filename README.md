@@ -10,6 +10,7 @@
 
 Nesta BETA aberta búscase coñecer a opinión do público obxectivo do proxecto sobre o software desenvolvido ao longo dos últimos 5 meses.
 Agradeceríase coñecer o voso feedback a través do [formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=PuqhzrJgdU-mwqYCLo-WG24jIPE1fOVLrA-D0deCrrhUMzJHRE5ZSFo3RzFXMkdLSjlOTkM4NzBBVC4u) despois de probar o proxecto, así como calquera erro que atopedes durante o seu uso.
+
 ---
 ## Indicacións
 
