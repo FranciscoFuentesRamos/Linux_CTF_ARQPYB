@@ -107,6 +107,11 @@ As normas son moi sinxelas:
 - Xeraranse retos cunha dificultade acorde co teu nivel de habilidade.
 - En cada reto deberás atopar a bandeira, que seguen a estrutura: `ARQPYB-XxXxXxXxX.`
 
+Os retos están organizados por bloques, actualmente existen 2 bloques temáticos:
+- Bloque 1 : navegación por directorios
+- Bloque 2 : lectura de arquivos
+Cando o usuario monta toda a estrutura de forma guiada ten a posibilidade de escoller os bloques que quere facer así como o número de retos por bloque que desexe (15 máximo)
+
 Comandos dispoñibles:
 
 - `reto` para ler o reto.
