@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Linux CTF ARQPYB
+Comment=Ejecuta el reto de Linux CTF ARQPYB
+Exec=/bin/bash -c "xhost +local: && docker start arqpyb_run"
+Icon=/opt/Linux_CTF_ARQPYB/ctf/ui/img/logo.png
+Terminal=false
+Categories=Utility;

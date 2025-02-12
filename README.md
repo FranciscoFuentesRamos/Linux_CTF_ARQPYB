@@ -1,21 +1,18 @@
-# Linux-CTF-ARQPYB: BETA Aberta Build 
+# Linux-CTF-ARQPYB: v.1.0
 
-![img](./logo.svg)
+![img](./ctf/ui/img/logo.svg)
 
 > Por favor ler atentamente ate o final :)
 
-
----
 ## Resumo
 
-Nesta BETA aberta búscase coñecer a opinión do público obxectivo do proxecto sobre o software desenvolvido ao longo dos últimos 5 meses.
-Agradeceríase coñecer o voso feedback a través do [formulario](https://forms.office.com/Pages/ResponsePage.aspx?id=PuqhzrJgdU-mwqYCLo-WG24jIPE1fOVLrA-D0deCrrhUMzJHRE5ZSFo3RzFXMkdLSjlOTkM4NzBBVC4u) despois de probar o proxecto, así como calquera erro que atopedes durante o seu uso.
+Benvide a Linux-CTF-ARQPYB v.1.0, unha contorna adaptable e doada deseñada para aprender ou mellorar o teu control nos comandos Linux.
 
 ---
 ## Indicacións
 
 > [!WARNING]
-> Le con detemento. Esta versión está en desenvolvemento e pode conter erros (bugs).
+> Ler con detemento
 
 ### Instalación
 
@@ -25,7 +22,7 @@ Agradeceríase coñecer o voso feedback a través do [formulario](https://forms.
 
 Preme aqui para instalar:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14685183.svg)](https://doi.org/10.5281/zenodo.14685183)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14861822.svg)](https://doi.org/10.5281/zenodo.14861822)
 
 E descarga o arquivo **linux_install.zip**
 
@@ -52,7 +49,7 @@ sudo ./install.sh
 ~~~
 Unha vez rematada a instalación, deberías ter un aplicativo no menú chamado Linux_CTF_ARQPYB. Disfruta da experiencia! 😊
 
-> En caso de que o icono non funcione, podes abrir Docker dende unha terminal co comando: `xhost +local: && docker start arqpyb_run`
+> En caso de que a icona non funcione, podes abrir Docker dende unha terminal co comando: `xhost +local: && docker start arqpyb_run`
 
 3. Para desinstalar simplemente executa.
 ~~~
@@ -63,7 +60,7 @@ sudo ./uninstall.sh
 
 Preme aqui para instalar:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14685183.svg)](https://doi.org/10.5281/zenodo.14685183)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14861822.svg)](https://doi.org/10.5281/zenodo.14861822)
 
 E descarga o arquivo **windows_install.zip**
 
@@ -78,10 +75,10 @@ E descarga o arquivo **windows_install.zip**
 ├── Linux_CTF_ARQPYB.zip
 └── uninstall.bat
 ~~~
-2. Fai dobre clic en `install.bat`. É necesario outorgar permisos para que poida instalarse correctamente. Unha vez instalado, crearase un icono no escritorio chamado **Linux_CTF_ARQPYB**
+2. Fai dobre clic en `install.bat`. É necesario outorgar permisos para que poida instalarse correctamente. Unha vez instalado, crearase unha icona no escritorio chamado **Linux_CTF_ARQPYB**
 > Seguramente salte un aviso de que o script ven dun **editor descoñecido**, simplemente tes que clicar en **máis información > Executar de todas formas**
 3. Para executar a contorna **recoméndase ter correndo en segundo plano o Docker e o Xming**
-> En caso de que o icono non funcione, podes abrir Docker dende unha consola co comando: `docker start arqpyb_run`
+> En caso de que a icona non funcione, podes abrir Docker dende unha consola co comando: `docker start arqpyb_run`
 4. Para desinstalar, fai dobre clic en `uninstall.bat`
 
 ### Funcionamento
@@ -106,11 +103,6 @@ As normas son moi sinxelas:
 
 - Xeraranse retos cunha dificultade acorde co teu nivel de habilidade.
 - En cada reto deberás atopar a bandeira, que seguen a estrutura: `ARQPYB-XxXxXxXxX.`
-
-Os retos están organizados por bloques, actualmente existen 2 bloques temáticos:
-- Bloque 1 : navegación por directorios
-- Bloque 2 : lectura de arquivos
-Cando o usuario monta toda a estrutura de forma guiada ten a posibilidade de escoller os bloques que quere facer así como o número de retos por bloque que desexe (15 máximo)
 
 Comandos dispoñibles:
 
